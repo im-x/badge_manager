@@ -46,6 +46,9 @@ public class BadgeTools {
             case "lenovo":
             case "htc":
             case "sony":
+            case "vivo":
+            case "oppo":
+            case "redmi":
                 return true;
             default:
                 return false;
